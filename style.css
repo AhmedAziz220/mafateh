@@ -1,0 +1,32 @@
+.nawaqed{
+    border: 2px solid;
+    float: right;
+    padding: 16px;
+}
+
+.qawaaed{
+    border: 2px solid;
+    float: left;
+    padding: 16px;
+}
+
+.nawaqed ol{
+    direction: rtl;
+    
+}
+
+.qawaaed ol{
+    direction: rtl;
+    
+}
+
+.thalatha{
+    border: 2px solid;
+    float: right;
+    padding: 16px;
+}
+
+.thalatha ol{
+    direction: rtl;
+    
+}
